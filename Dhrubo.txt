@@ -1,0 +1,8 @@
+Name : Mahadi Rahman Dhrubo
+ID : 191-15-12177
+Section : O-6
+Designation : CR
+Dept : CSE
+Hobby : Programming and watching cricket
+Favrt. Prog. Lang. : Python
+favrt. cricketer : Virat Kohli
